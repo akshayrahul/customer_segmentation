@@ -1,5 +1,4 @@
 # Airline Customer Segmentation
-# Airline Customer Segmentation
 
 ![Airline Image](airline_image.jpg)
 
