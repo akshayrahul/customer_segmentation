@@ -1,7 +1,5 @@
 # Airline Customer Segmentation
 
-![Airline Image](airline_image.jpg)
-
 This repository contains code and resources for the Airline Customer Segmentation project.
 
 ## Project Overview
